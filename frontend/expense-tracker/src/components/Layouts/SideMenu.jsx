@@ -21,7 +21,7 @@ const SideMenu = ({ activeMenu }) => {
   const handelLogout = () => {
     localStorage.clear();
     clearUser();
-    navigate("/login");
+    navigate("/");
   };
 
   return (
