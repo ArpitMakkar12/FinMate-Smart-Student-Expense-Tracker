@@ -3,6 +3,8 @@
 **FinMate** is a MERN Stack project built in 48 hours during **HackEd IT**, a hackathon organized in collaboration with **GrowthEd**.  
 The project simplifies financial decision-making by offering intuitive and smart budget tracking and poll-based prioritization.
 
+> ⚠ *Note:* For the best viewing experience, please avoid using *dark mode* while browsing this README.
+
 ## 🚀 Deployed Link
 
 🔗 [Live Demo](https://fin-mate-smart-student-expense-tracker.vercel.app/login)  
