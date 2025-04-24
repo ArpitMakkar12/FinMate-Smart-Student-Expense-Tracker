@@ -8,7 +8,7 @@ The project simplifies financial decision-making by offering intuitive and smart
 ## 🚀 Deployed Link
 
 🔗 [Live Demo](https://fin-mate-smart-student-expense-tracker.vercel.app/login)  
-📽️ [Demo Video](https://youtube.com/your-demo-video-link)
+📽️ [Demo Video](https://www.youtube.com/watch?v=gmId23QqACM)
 
 ---
 
@@ -93,7 +93,7 @@ To run the project locally, follow the steps below:
 
 1. Navigate to the frontend folder:
    ```bash
-   cd frontend/polling-app
+   cd frontend/expense-tracker
    ```
 
 2. Install dependencies:
